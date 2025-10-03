@@ -7,8 +7,8 @@ Feel free to explore and connect.
 
 | Project Name | Description | GitHub Link |
 |--------------|-------------|-------------|
-| **Project Title** | Short description of your project | [View Repo](https://github.com/yourusername/project-repo) |
-| ... | ... | ... |
+| **SOARS - Application Portal for Student Organizations** | A portal for managing student organization applications, documentation, and workflow. | [View Repo](https://github.com/osasnojt/2024) |
+| **2048 - JS Game Dev** | A JavaScript implementation of the classic 2048 game. | [View Repo](https://github.com/js-game-dev) |
 
 ## About Me
 
@@ -17,5 +17,5 @@ I am a BSIT graduate with foundational knowledge in technical support, web devel
 ## Contact
 
 - **Email:** heavenledres7@example.com
-- **LinkedIn:**(https://www.linkedin.com/in/rosefel-heaven-ledres-337341372/)
+- **LinkedIn:** [rosefel-heaven-ledres-337341372](https://www.linkedin.com/in/rosefel-heaven-ledres-337341372/)
 - **GitHub:** [ventississimo](https://github.com/ventississimo)
