@@ -7,7 +7,7 @@ Feel free to explore and connect.
 
 | Project Name | Description | GitHub Link |
 |--------------|-------------|-------------|
-| **SOARS - Application Portal for Student Organizations** | A portal for managing student organization applications, documentation, and workflow. | [View Repo](https://github.com/osasnojt/2024) |
+| **SOARS - Application Portal for Student Organizations** | A portal for managing student organization applications, documentation, and workflow. | [View Link](https://github.com/osasnojt/2024) |
 | **2048 - JS Game Dev** | A JavaScript implementation of the classic 2048 game. | [View Website](https://osas-soars.usep.edu.ph/) |
 | **Phoniphaleia** | SECURE WEB VOTING WITH ZERO-KNOWLEDGE PROOF AND PAILLIER’S HOMOMORPHIC ENCRYPTION | [View Repo](https://github.com/harudayoo/phoniphaleia-vs) |
 
