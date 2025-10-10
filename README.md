@@ -7,6 +7,7 @@ Feel free to explore and connect.
 
 | Project Name | Description | GitHub Link |
 |--------------|-------------|-------------|
+| **My Portfolio - Website Portfolio** | A websitr portfolio showcasing my web development. | [View Website](https://my-personal-portfolio-gamma-lovat.vercel.app/) |
 | **SOARS - Application Portal for Student Organizations** | A portal for managing student organization applications, documentation, and workflow. | [View Website](https://osas-soars.usep.edu.ph/) |
 | **2048 - JS Game Dev** | A JavaScript implementation of the classic 2048 game. | [View Website](https://js-game-dev-roan.vercel.app/) |
 | **Phoniphaleia** | SECURE WEB VOTING WITH ZERO-KNOWLEDGE PROOF AND PAILLIER’S HOMOMORPHIC ENCRYPTION | [View Repo](https://github.com/harudayoo/phoniphaleia-vs) |
